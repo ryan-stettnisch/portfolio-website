@@ -1,2 +1,2 @@
 # portfolio-website
-My portfolio website. ada
+My portfolio website.
