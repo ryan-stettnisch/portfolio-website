@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "My personal portfolio website.",
+  "main": "index.html",
+  "bin": {
+    "portfolio-website": "bin/script.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "index.html"
+  },
+  "author": "Ryan Stettnisch",
+  "license": "ISC",
+  "devDependencies": {
+    "cpx": "^1.5.0"
+  }
+}
